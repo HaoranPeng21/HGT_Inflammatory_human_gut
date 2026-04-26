@@ -1,0 +1,14 @@
+species	skani9999_kept_samples	health_enriched_genes	ibd_enriched_genes	health_hgt_genes	ibd_hgt_genes	health_nonhgt_genes	ibd_nonhgt_genes	health_hgt_fraction	ibd_hgt_fraction	odds_ratio_ibd_vs_health_hgt	fisher_p_greater_ibd_hgt	fisher_bh_fdr	nominal_p_lt_0.05	bh_fdr_lt_0.05
+Bacteroides_fragilis__32_1	126	55	205	1	80	54	125	0.0181818	0.390244	34.56	1.92701e-09	1.25256e-08	TRUE	TRUE
+Bacteroides_ovatus__44_3	185	1	1	0	0	1	1	0	0	NA	1	1	FALSE	FALSE
+Bacteroides_thetaiotaomicron__42_2	157	0	0	0	0	0	0	NA	NA	NA	1	1	FALSE	FALSE
+Bacteroides_uniformis__48_2	466	166	499	3	224	163	275	0.0180723	0.448898	44.257	4.10068e-31	5.33088e-30	TRUE	TRUE
+Bifidobacterium_adolescentis__335_1	2043	427	616	13	42	414	574	0.030445	0.0681818	2.33021	0.00456393	0.019777	TRUE	TRUE
+Bifidobacterium_longum__338_1	1510	439	562	9	20	430	542	0.0205011	0.0355872	1.76302	0.109804	0.356864	FALSE	FALSE
+Bifidobacterium_pseudocatenulatum__334_1	121	25	22	0	1	25	21	0	0.0454545	Inf	0.468085	0.891728	FALSE	FALSE
+Eggerthella_lenta__326_1	140	57	97	0	0	57	97	0	0	NA	1	1	FALSE	FALSE
+Escherichia_coli__66_5	833	575	1086	2	6	573	1080	0.00347826	0.00552486	1.59167	0.436669	0.891728	FALSE	FALSE
+Parabacteroides_distasonis__45_1	613	1030	1650	190	307	840	1343	0.184466	0.186061	1.01062	0.480161	0.891728	FALSE	FALSE
+Parabacteroides_merdae__26_2	214	0	0	0	0	0	0	NA	NA	NA	1	1	FALSE	FALSE
+Phocaeicola_vulgatus__46_1	170	3	5	0	0	3	5	0	0	NA	1	1	FALSE	FALSE
+Streptococcus_salivarius__229_3	183	0	0	0	0	0	0	NA	NA	NA	1	1	FALSE	FALSE

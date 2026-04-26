@@ -1,0 +1,3 @@
+figure	species	n_fdr05_genes	n_ibd_sig_beta_gt0	n_health_sig_beta_lt0	n_top50_genes	n_top50_hgt_overlap_genes	top50_cutoff_lrt_pvalue	fdr05_cutoff_lrt_pvalue	max_top50_hgt_overlap_bp
+Figure5e	Bacteroides uniformis (48_2)	665	499	166	50	16	3.85e-07	0.00298	1239
+FigureS7	Bacteroides fragilis (32_1)	260	205	55	50	13	0.000139	0.00303	3735

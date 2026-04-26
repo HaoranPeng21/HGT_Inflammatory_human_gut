@@ -1,0 +1,16 @@
+metric	value
+pairwise_genome_pairs_in_input	61075
+pairwise_genome_pairs_used	61075
+unique_species_pairs	38506
+skipped_nonrepresentative_pairs	0
+snp_count_median	7502.00
+snp_count_mean	6820.99
+snp_count_min	31
+snp_count_max	8983
+snp_rate_median	0.442134
+snp_rate_mean	0.399977
+snp_per_2000bp_median	884.267419
+snp_per_2000bp_mean	799.954282
+snp_per_2000bp_min	3.632742
+snp_per_2000bp_max	1050.875338
+rows_with_snp_per_2000bp_0_to_10	30

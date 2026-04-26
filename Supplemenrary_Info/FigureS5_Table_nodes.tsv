@@ -1,0 +1,11 @@
+secondary_cluster	n_genomes	n_persons	n_plasmid_contigs	median_depth	max_pident	min_pident	phylum	genus	species	n_modules	modules	degree	weighted_degree
+338_1	661	124	530	10.934999999999999	100.0	88.281	Actinomycetota	Bifidobacterium	Bifidobacterium_longum	2	Module A;Module B	9	14
+335_1	3	3	2	0.59	99.878	90.694	Actinomycetota	Bifidobacterium	Bifidobacterium_adolescentis	2	Module A;Module B	9	14
+224_1	1	1	2	0.33499999999999996	99.959	97.774	Bacillota	Enterococcus_B	Enterococcus_B_hirae	2	Module A;Module B	9	14
+233_3	1	1	2	1.2850000000000001	100.0	100.0	Bacillota	Streptococcus	Streptococcus_parasanguinis_E	2	Module A;Module B	9	14
+39_5	1	1	1	0.375	99.959	96.878	Bacteroidota	Bacteroides	Bacteroides_cellulosilyticus	2	Module A;Module B	9	14
+48_2	1	1	0	6.43	100.0	100.0	Bacteroidota	Bacteroides	Bacteroides_uniformis	2	Module A;Module B	9	14
+334_3	3	1	2	8.26	90.611	90.611	Actinomycetota	Bifidobacterium	Bifidobacterium_catenulatum	1	Module B	8	8
+228_1	1	1	1	0.31	100.0	100.0	Bacillota	Streptococcus	Streptococcus_anginosus_C	1	Module B	8	8
+66_5	1	1	1	0.59	97.828	97.828	Pseudomonadota	Escherichia	Escherichia_coli	1	Module B	8	8
+337_1	7	1	7	5.87	99.98	99.98	Actinomycetota	Bifidobacterium	Bifidobacterium_breve	1	Module A	6	6

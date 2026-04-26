@@ -1,0 +1,43 @@
+secondary_cluster_1	secondary_cluster_2	shared_modules	queries	edge_class
+224_1	228_1	1	02_Module_B_3683bp_n26	Module B
+224_1	233_3	2	01_Module_A_4896bp_n29;02_Module_B_3683bp_n26	Shared
+224_1	334_3	1	02_Module_B_3683bp_n26	Module B
+224_1	335_1	2	01_Module_A_4896bp_n29;02_Module_B_3683bp_n26	Shared
+224_1	337_1	1	01_Module_A_4896bp_n29	Module A
+224_1	338_1	2	01_Module_A_4896bp_n29;02_Module_B_3683bp_n26	Shared
+224_1	39_5	2	01_Module_A_4896bp_n29;02_Module_B_3683bp_n26	Shared
+224_1	48_2	2	01_Module_A_4896bp_n29;02_Module_B_3683bp_n26	Shared
+224_1	66_5	1	02_Module_B_3683bp_n26	Module B
+228_1	233_3	1	02_Module_B_3683bp_n26	Module B
+228_1	334_3	1	02_Module_B_3683bp_n26	Module B
+228_1	335_1	1	02_Module_B_3683bp_n26	Module B
+228_1	338_1	1	02_Module_B_3683bp_n26	Module B
+228_1	39_5	1	02_Module_B_3683bp_n26	Module B
+228_1	48_2	1	02_Module_B_3683bp_n26	Module B
+228_1	66_5	1	02_Module_B_3683bp_n26	Module B
+233_3	334_3	1	02_Module_B_3683bp_n26	Module B
+233_3	335_1	2	01_Module_A_4896bp_n29;02_Module_B_3683bp_n26	Shared
+233_3	337_1	1	01_Module_A_4896bp_n29	Module A
+233_3	338_1	2	01_Module_A_4896bp_n29;02_Module_B_3683bp_n26	Shared
+233_3	39_5	2	01_Module_A_4896bp_n29;02_Module_B_3683bp_n26	Shared
+233_3	48_2	2	01_Module_A_4896bp_n29;02_Module_B_3683bp_n26	Shared
+233_3	66_5	1	02_Module_B_3683bp_n26	Module B
+334_3	335_1	1	02_Module_B_3683bp_n26	Module B
+334_3	338_1	1	02_Module_B_3683bp_n26	Module B
+334_3	39_5	1	02_Module_B_3683bp_n26	Module B
+334_3	48_2	1	02_Module_B_3683bp_n26	Module B
+334_3	66_5	1	02_Module_B_3683bp_n26	Module B
+335_1	337_1	1	01_Module_A_4896bp_n29	Module A
+335_1	338_1	2	01_Module_A_4896bp_n29;02_Module_B_3683bp_n26	Shared
+335_1	39_5	2	01_Module_A_4896bp_n29;02_Module_B_3683bp_n26	Shared
+335_1	48_2	2	01_Module_A_4896bp_n29;02_Module_B_3683bp_n26	Shared
+335_1	66_5	1	02_Module_B_3683bp_n26	Module B
+337_1	338_1	1	01_Module_A_4896bp_n29	Module A
+337_1	39_5	1	01_Module_A_4896bp_n29	Module A
+337_1	48_2	1	01_Module_A_4896bp_n29	Module A
+338_1	39_5	2	01_Module_A_4896bp_n29;02_Module_B_3683bp_n26	Shared
+338_1	48_2	2	01_Module_A_4896bp_n29;02_Module_B_3683bp_n26	Shared
+338_1	66_5	1	02_Module_B_3683bp_n26	Module B
+39_5	48_2	2	01_Module_A_4896bp_n29;02_Module_B_3683bp_n26	Shared
+39_5	66_5	1	02_Module_B_3683bp_n26	Module B
+48_2	66_5	1	02_Module_B_3683bp_n26	Module B

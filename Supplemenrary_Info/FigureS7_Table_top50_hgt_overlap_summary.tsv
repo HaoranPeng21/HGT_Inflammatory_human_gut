@@ -1,0 +1,14 @@
+group	group_annotation	lrt_pvalue	fdr	log10p	beta	af	gene_instances	hgt_rows	max_overlap_bp
+group_1145	Plasmid transfer protein	1.10E-05	0.00355583	4.958607	6.75E+00	7.14E-02	31	98	1134
+group_6615	OMP-b-brl-3 domain-containing protein	1.25E-05	0.00355583	4.903090	5.48E+00	7.94E-02	34	156	354
+group_6384	Lipocalin-like domain-containing protein	2.30E-05	0.00490705	4.638272	3.54E+00	1.51E-01	10	10	414
+group_4365	Lipoprotein	2.30E-05	0.00490705	4.638272	3.54E+00	1.51E-01	10	10	405
+group_2671	RibD-C domain-containing protein	2.78E-05	0.00510855	4.555955	4.72E+00	7.14E-02	6	204	423
+group_3800	Fimbrillin family protein	3.92E-05	0.00510855	4.406714	5.89E+00	1.11E-01	9	90	2748
+group_22212	Tyrosine-type recombinase/integrase	3.92E-05	0.00510855	4.406714	5.89E+00	9.52E-02	11	73	366
+group_15681	TerB family tellurite resistance protein	8.98E-05	0.00891108	4.046724	5.28E+00	8.73E-02	14	30	306
+group_15682	Prophage-tail domain-containing protein	8.98E-05	0.00891108	4.046724	5.28E+00	8.73E-02	14	30	3735
+group_6867	HTH-17 domain-containing protein	1.14E-04	0.0105313	3.943095	3.67E+00	1.51E-01	3	3	378
+group_6231	UPF0113 domain-containing protein	1.16E-04	0.0105313	3.935542	4.57E+00	8.73E-02	38	169	486
+group_10714	Phage portal protein	1.24E-04	0.0107981	3.906578	4.96E+00	9.52E-02	19	108	486
+group_15711	Reverse transcriptase domain-containing protein	1.24E-04	0.0107981	3.906578	4.96E+00	9.52E-02	19	108	1305

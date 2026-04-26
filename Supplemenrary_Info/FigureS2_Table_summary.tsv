@@ -1,0 +1,8 @@
+metric	value
+input_rows	166197
+plotted_rows_total_genome_count_ge5	11037
+prevalence_eq_1_rows	4916
+prevalence_lt_1_rows	6121
+prevalence_lt_1_min	0.0555556
+prevalence_lt_1_median	0.5
+prevalence_lt_1_max	0.944444

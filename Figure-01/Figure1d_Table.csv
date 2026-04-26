@@ -1,0 +1,32 @@
+"COG24_CATEGORY","species_pair_count_with_1","species_pair_total","frequency","category_name","label","label_wrapped","fill_group"
+"V",301,2821,0.106699751861042,"Defense mechanisms","Defense mechanisms (V)","Defense mechanisms (V)","other"
+"L",298,2821,0.105636299184686,"Replication, recombination and repair","Replication, recombination and repair (L)","Replication, recombination and repair (L)","L"
+"X",290,2821,0.102800425381071,"Mobilome: prophages, transposons","Mobilome: prophages, transposons (X)","Mobilome: prophages, transposons (X)","other"
+"D",247,2821,0.0875576036866359,"Cell cycle control, cell division, chromosome partitioning","Cell cycle control, cell division, chromosome partitioning (D)","Cell cycle control, cell division,
+chromosome partitioning (D)","other"
+"M",243,2821,0.0861396667848281,"Cell wall/membrane/envelope biogenesis","Cell wall/membrane/envelope biogenesis (M)","Cell wall/membrane/envelope biogenesis
+(M)","other"
+"K",235,2821,0.0833037929812123,"Transcription","Transcription (K)","Transcription (K)","K"
+"U",232,2821,0.0822403403048564,"Intracellular trafficking, secretion, and vesicular transport","Intracellular trafficking, secretion, and vesicular transport (U)","Intracellular trafficking, secretion, and
+vesicular transport (U)","U"
+"R",222,2821,0.0786954980503368,"General function prediction only","General function prediction only (R)","General function prediction only (R)","R"
+"S",219,2821,0.0776320453739809,"Function unknown","Function unknown (S)","Function unknown (S)","other"
+"T",214,2821,0.075859624246721,"Signal transduction mechanisms","Signal transduction mechanisms (T)","Signal transduction mechanisms (T)","other"
+"N",204,2821,0.0723147819922013,"Cell motility","Cell motility (N)","Cell motility (N)","other"
+"J",190,2821,0.0673520028358738,"Translation, ribosomal structure and biogenesis","Translation, ribosomal structure and biogenesis (J)","Translation, ribosomal structure and
+biogenesis (J)","other"
+"H",147,2821,0.0521091811414392,"Coenzyme transport and metabolism","Coenzyme transport and metabolism (H)","Coenzyme transport and metabolism (H)","H"
+"G",129,2821,0.0457284650833038,"Carbohydrate transport and metabolism","Carbohydrate transport and metabolism (G)","Carbohydrate transport and metabolism (G)","other"
+"O",128,2821,0.0453739808578518,"Posttranslational modification, protein turnover, chaperones","Posttranslational modification, protein turnover, chaperones (O)","Posttranslational modification, protein
+turnover, chaperones (O)","other"
+"E",98,2821,0.0347394540942928,"Amino acid transport and metabolism","Amino acid transport and metabolism (E)","Amino acid transport and metabolism (E)","other"
+"B",97,2821,0.0343849698688408,"Chromatin structure and dynamics","Chromatin structure and dynamics (B)","Chromatin structure and dynamics (B)","B"
+"P",89,2821,0.0315490960652251,"Inorganic ion transport and metabolism","Inorganic ion transport and metabolism (P)","Inorganic ion transport and metabolism
+(P)","other"
+"C",84,2821,0.0297766749379653,"Energy production and conversion","Energy production and conversion (C)","Energy production and conversion (C)","C"
+"F",75,2821,0.0265863169088976,"Nucleotide transport and metabolism","Nucleotide transport and metabolism (F)","Nucleotide transport and metabolism (F)","other"
+"I",69,2821,0.0244594115561858,"Lipid transport and metabolism","Lipid transport and metabolism (I)","Lipid transport and metabolism (I)","other"
+"Q",42,2821,0.0148883374689826,"Secondary metabolites biosynthesis, transport and catabolism","Secondary metabolites biosynthesis, transport and catabolism (Q)","Secondary metabolites biosynthesis,
+transport and catabolism (Q)","other"
+"W",26,2821,0.00921658986175115,"Extracellular structures","Extracellular structures (W)","Extracellular structures (W)","other"
+"A",15,2821,0.00531726338177951,"RNA processing and modification","RNA processing and modification (A)","RNA processing and modification (A)","other"

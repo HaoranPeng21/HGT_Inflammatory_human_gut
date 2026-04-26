@@ -1,0 +1,5 @@
+COG24_FUNCTION_ID,COG24_FUNCTION_NAME,n_species_pairs,n_records,n_ibd_higher,n_nonibd_higher,min_q,median_log2_or,prop_ibd_higher,prop_nonibd_higher,dominant_prop,dominant_direction
+COG0294,Dihydropteroate synthase (FolP) (PDB:1AD1),5,5,5,0,7.066603357439167e-116,8.743135050089968,1.0,0.0,1.0,IBD_higher
+COG0156,7-keto-8-aminopelargonate synthetase or related enzyme (BioF) (PDB:1BS0),3,3,3,0,6.7001964308766305e-40,4.957704385163155,1.0,0.0,1.0,IBD_higher
+COG4206,Outer membrane cobalamin receptor protein BtuB (BtuB) (PDB:1NQE),2,2,2,0,5.3504821657120076e-14,5.38283473587328,1.0,0.0,1.0,IBD_higher
+COG1541,"Phenylacetate-coenzyme A ligase PaaK, adenylate-forming domain family (PaaK) (PDB:2Y4O)",2,2,2,0,9.408708006466693e-14,7.715730170546523,1.0,0.0,1.0,IBD_higher

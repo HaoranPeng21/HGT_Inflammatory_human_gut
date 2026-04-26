@@ -1,0 +1,10 @@
+feature_id	locus_id	coordinates	feature_type	name	group	group_type	category	fill_colour	stroke_colour	show_label
+02_Module_B_3683bp_n26-AOEJLJ_09845	02_Module_B_3683bp_n26	1:897:1	CDS	putative replication protein rep	02_Module_B_3683bp_n26-AOEJLJ_09845	conserved		default	default	0
+02_Module_B_3683bp_n26-AOEJLJ_09850	02_Module_B_3683bp_n26	894:2588:-1	CDS	Mobilization protein MobA	02_Module_B_3683bp_n26-AOEJLJ_09850	conserved		default	default	0
+02_Module_B_3683bp_n26-AOEJLJ_09855	02_Module_B_3683bp_n26	2874:3386:1	CDS	Conjugal transfer protein TraD	02_Module_B_3683bp_n26-AOEJLJ_09855	conserved		default	default	0
+01_Module_A_4896bp_n29-MMMHMJ_10200	01_Module_A_4896bp_n29	1:912:1	CDS	RepA	01_Module_A_4896bp_n29-MMMHMJ_10200	conserved		default	default	0
+01_Module_A_4896bp_n29-MMMHMJ_10205	01_Module_A_4896bp_n29	963:1181:-1	CDS	DUF4328 domain-containing protein	01_Module_A_4896bp_n29-MMMHMJ_10205	conserved		default	default	0
+01_Module_A_4896bp_n29-MMMHMJ_10210	01_Module_A_4896bp_n29	1286:1438:-1	CDS	Transmembrane protein	01_Module_A_4896bp_n29-MMMHMJ_10210	conserved		default	default	0
+01_Module_A_4896bp_n29-MMMHMJ_10215	01_Module_A_4896bp_n29	1824:2327:1	CDS	Memba protein	01_Module_A_4896bp_n29-MMMHMJ_10215	conserved		default	default	0
+01_Module_A_4896bp_n29-MMMHMJ_10220	01_Module_A_4896bp_n29	2391:3593:-1	CDS	MobA	01_Module_A_4896bp_n29-MMMHMJ_10220	conserved		default	default	0
+01_Module_A_4896bp_n29-MMMHMJ_10225	01_Module_A_4896bp_n29	4218:4637:1	CDS	Conjugal transfer protein TraD	01_Module_A_4896bp_n29-MMMHMJ_10225	conserved		default	default	0

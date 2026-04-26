@@ -1,0 +1,9 @@
+ARG,CAZyme,Virulence,species_pair_count,combination
+0,0,0,7955,None
+1,0,0,87,ARG
+1,1,1,67,ARG&CAZyme&Virulence
+0,1,0,34,CAZyme
+1,1,0,32,ARG&CAZyme
+0,1,1,18,CAZyme&Virulence
+0,0,1,15,Virulence
+1,0,1,9,ARG&Virulence

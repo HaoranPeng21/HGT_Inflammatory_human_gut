@@ -1,0 +1,13 @@
+section	level	n
+tree	matched_tips_in_figure	26739
+tree	raw_tip_labels_in_decorated_tree_excluding_internal_nodes	28668
+Phylum	Actinomycetota	12225
+Phylum	Bacteroidota	7492
+Phylum	Bacillota	4093
+Phylum	Pseudomonadota	2912
+Phylum	Desulfobacterota	10
+Phylum	Fusobacteriota	7
+plasmid_ring_binary	0	18755
+plasmid_ring_binary	1	7984
+HGT_within_ring_binary	0	19608
+HGT_within_ring_binary	1	7131

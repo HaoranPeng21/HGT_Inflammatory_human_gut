@@ -1,0 +1,3 @@
+COG24_FUNCTION_ID,COG24_FUNCTION_NAME,n_species_pairs,n_records,n_ibd_higher,n_nonibd_higher,min_q,median_log2_or,prop_ibd_higher,prop_nonibd_higher,dominant_prop,dominant_direction
+COG2764,"Zn-dependent glyoxalase, PhnB family (PhnB) (PDB:5KEF) (PUBMED:28034013)",5,5,5,0,1.4584263271063186e-09,6.173055418973872,1.0,0.0,1.0,IBD_higher
+COG1853,"FMN reductase RutF, DIM6/NTAB family (RutF) (PDB:1EJE)",2,2,2,0,4.4368515206965474e-13,7.715730170546523,1.0,0.0,1.0,IBD_higher
