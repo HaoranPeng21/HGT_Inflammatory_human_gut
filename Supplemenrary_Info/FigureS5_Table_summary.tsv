@@ -1,9 +1,0 @@
-metric	value
-input_best_per_genome_rows	879
-unique_genomes	680
-query_secondary_cluster_rows	16
-unique_secondary_cluster_nodes	10
-unique_edges	42
-unique_queries	2
-Module A_secondary_clusters	7
-Module B_secondary_clusters	9

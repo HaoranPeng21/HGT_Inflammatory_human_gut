@@ -1,3 +1,0 @@
-metric	n_species_pairs	n_phylogeny_lt_1	n_phylogeny_gt_1	median_rate_IBD	median_rate_non_IBD	max_rate_change	min_rate_change
-Non-plasmid HGT	128	33	95	0.0	0.0	0.5417433495064412	-0.37215887920113266
-Plasmid HGT	128	33	95	0.0	0.0	0.45732165206508135	-0.2446043165467626

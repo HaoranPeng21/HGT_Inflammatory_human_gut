@@ -1,9 +1,0 @@
-filter	qseqid	module	cohort	n_contigs	n_genomes	n_persons	n_plasmid_contigs	median_depth	mean_depth	q1_depth	q3_depth	min_depth	max_depth	dag3_median	riseup_median	median_diff_RISEUP_minus_DAG3	wilcox_w	wilcox_p
-qcov_gt0.75_tcov_gt0.75_no_pident_filter	01_Module_A_4896bp_n29	Module A	DAG3_vs_RISEUP	488	488	89	307	NA	NA	NA	NA	NA	NA	8.77	11.44	2.67	16667.5	3.37351760990202e-08
-qcov_gt0.75_tcov_gt0.75_no_pident_filter	02_Module_B_3683bp_n26	Module B	DAG3_vs_RISEUP	436	436	81	253	NA	NA	NA	NA	NA	NA	11.47	23.52	12.05	9410	3.53868640755073e-17
-qcov_gt0.9_tcov_gt0.9_no_pident_filter	01_Module_A_4896bp_n29	Module A	DAG3_vs_RISEUP	469	469	87	307	NA	NA	NA	NA	NA	NA	8.57	10.91	2.34	15778.5	4.97493358495848e-07
-qcov_gt0.9_tcov_gt0.9_no_pident_filter	02_Module_B_3683bp_n26	Module B	DAG3_vs_RISEUP	410	410	77	241	NA	NA	NA	NA	NA	NA	11.47	24.77	13.3	7412	2.20181191288788e-17
-pident_eq100_qcov_gt0.75_tcov_gt0.75	01_Module_A_4896bp_n29	Module A	DAG3_vs_RISEUP	67	67	9	34	NA	NA	NA	NA	NA	NA	11.8	9.725	-2.075	433	0.91394270196602
-pident_eq100_qcov_gt0.75_tcov_gt0.75	02_Module_B_3683bp_n26	Module B	DAG3_vs_RISEUP	47	47	1	26	NA	NA	NA	NA	NA	NA	NA	37.96	NA	NA	NA
-pident_eq100_qcov_gt0.75	01_Module_A_4896bp_n29	Module A	DAG3_vs_RISEUP	73	73	11	37	NA	NA	NA	NA	NA	NA	11.2	9.725	-1.475	541	0.690771390790459
-pident_eq100_qcov_gt0.75	02_Module_B_3683bp_n26	Module B	DAG3_vs_RISEUP	47	47	1	26	NA	NA	NA	NA	NA	NA	NA	37.96	NA	NA	NA
